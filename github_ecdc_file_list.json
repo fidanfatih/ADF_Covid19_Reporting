@@ -1,0 +1,18 @@
+[
+    {   "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"fidanfatih/ADF_Covid19_Reporting/blob/main/ecdc_datasets_v1/cases_deaths.csv",
+        "sinkFileName":"cases_deaths/cases_deaths.csv"
+    },
+    {   "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"fidanfatih/ADF_Covid19_Reporting/blob/main/ecdc_datasets_v1/hospital_admissions.csv",
+        "sinkFileName":"hospital_admissions/hospital_admissions.csv"
+    },
+    {   "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"fidanfatih/ADF_Covid19_Reporting/blob/main/ecdc_datasets_v1/country_response.csv",
+        "sinkFileName":"country_response/country_response.csv"
+    },
+    {   "sourceBaseURL":"https://raw.githubusercontent.com",
+        "sourceRelativeURL":"fidanfatih/ADF_Covid19_Reporting/blob/main/ecdc_datasets_v1/testing.csv",
+        "sinkFileName":"testing/testing.csv"
+    }
+]
